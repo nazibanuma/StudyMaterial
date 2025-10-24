@@ -1,0 +1,6 @@
+Screen 1|500|Running|25|Regular
+Screen 2|500|Running|25|Regular
+Screen 3|500|Running|25|Regular
+Screen 4|400|Running|20|Premium
+Screen 5|400|Running|20|Premium
+Screen 6|300|Running|15|VIP

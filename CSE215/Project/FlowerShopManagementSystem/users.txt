@@ -1,0 +1,3 @@
+admin,admin123,ADMIN
+numa,numa123,CUSTOMER
+lamia,lamia123,CUSTOMER

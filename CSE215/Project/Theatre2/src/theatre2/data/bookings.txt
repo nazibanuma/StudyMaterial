@@ -1,0 +1,110 @@
+Naziba Ali|01164106885|Jurassic World: Rebirth|17 August 2025|Screen 1|10:00 AM - 12:28 PM|6|3000|naziba
+Tasnim Hasan|01225853206|Jurassic World: Rebirth|17 August 2025|Screen 3|12:28 PM - 02:56 PM|2|1000|ADMIN
+Mahfuz Sengupta|01610571012|Thunderbolts*|17 August 2025|Screen 2|10:00 AM - 12:22 PM|3|1500|ADMIN
+Naziba Ali|01469747045|Thunderbolts*|17 August 2025|Screen 4|12:22 PM - 02:44 PM|8|5600|naziba
+Jaya Sengupta|01895068689|Ballerina|17 August 2025|Screen 5|10:00 AM - 12:19 PM|8|5600|ADMIN
+Rahul Rana|01580217425|Ballerina|17 August 2025|Screen 6|12:19 PM - 02:38 PM|6|6000|ADMIN
+Naziba Ali|01164106885|Jurassic World: Rebirth|18 August 2025|Screen 1|10:00 AM - 12:28 PM|6|3000|naziba
+Tasnim Hasan|01225853206|Jurassic World: Rebirth|18 August 2025|Screen 3|12:28 PM - 02:56 PM|2|1000|ADMIN
+Mahfuz Sengupta|01610571012|Thunderbolts*|18 August 2025|Screen 2|10:00 AM - 12:22 PM|3|1500|ADMIN
+Naziba Ali|01469747045|Thunderbolts*|18 August 2025|Screen 4|12:22 PM - 02:44 PM|8|5600|naziba
+Jaya Sengupta|01895068689|Ballerina|18 August 2025|Screen 5|10:00 AM - 12:19 PM|8|5600|ADMIN
+Rahul Rana|01580217425|Ballerina|18 August 2025|Screen 6|12:19 PM - 02:38 PM|6|6000|ADMIN
+Anik Hridoy|01176950391|The Fantastic Four: First Steps|18 August 2025|Screen 1|10:00 AM - 12:09 PM|6|3000|ADMIN
+Naziba Ali|01368804738|The Fantastic Four: First Steps|18 August 2025|Screen 4|12:09 PM - 02:18 PM|8|5600|naziba
+Shakib Ahsan|01876700273|Sinners|18 August 2025|Screen 1|10:00 AM - 12:32 PM|1|500|ADMIN
+Farin Ferdous|01466019185|Sinners|18 August 2025|Screen 6|12:32 PM - 03:04 PM|2|2000|ADMIN
+Sumaiya Rana|01086186054|How to Train Your Dragon|18 August 2025|Screen 1|10:00 AM - 12:20 PM|8|4000|ADMIN
+Arif Paul|01565026125|How to Train Your Dragon|18 August 2025|Screen 2|12:20 PM - 02:40 PM|4|2000|ADMIN
+Naziba Ali|01086842465|Captain America: Brave New World|18 August 2025|Screen 1|10:00 AM - 12:13 PM|3|1500|naziba
+Anik Karim|01812966027|Captain America: Brave New World|18 August 2025|Screen 3|12:13 PM - 02:26 PM|1|500|ADMIN
+Aditi Noor|01746028588|Utshob|18 August 2025|Screen 1|10:00 AM - 12:08 PM|3|1500|ADMIN
+Hridoy Dasgupta|01185395148|Utshob|18 August 2025|Screen 2|12:08 PM - 02:16 PM|4|2000|ADMIN
+Jaya Karim|01460813830|Dard|18 August 2025|Screen 4|10:00 AM - 12:51 PM|4|2800|ADMIN
+Farin Roy|01319515882|Dard|18 August 2025|Screen 5|12:51 PM - 03:42 PM|3|2100|ADMIN
+Fahim Shahin|01760497563|Final Destination: Bloodlines|18 August 2025|Screen 4|10:00 AM - 12:05 PM|3|2100|ADMIN
+Ariyan Ali|01997591057|Final Destination: Bloodlines|18 August 2025|Screen 6|12:05 PM - 02:10 PM|6|6000|ADMIN
+Tama Rana|01553753260|Priyo Maloti|18 August 2025|Screen 2|10:00 AM - 12:14 PM|7|3500|ADMIN
+Tasnia Dasgupta|01428651414|Priyo Maloti|18 August 2025|Screen 3|12:14 PM - 02:28 PM|6|3000|ADMIN
+Arif Hridoy|01096417953|NeelChokro|18 August 2025|Screen 5|10:00 AM - 12:08 PM|8|5600|ADMIN
+Farin Noor|01995378945|NeelChokro|18 August 2025|Screen 6|12:08 PM - 02:16 PM|1|1000|ADMIN
+Shakib Khan|01067278078|F1: The Movie|18 August 2025|Screen 3|10:00 AM - 12:50 PM|3|1500|ADMIN
+Hridoy Ferdous|01390789490|F1: The Movie|18 August 2025|Screen 4|12:50 PM - 03:40 PM|6|4200|ADMIN
+Shuvo Hridoy|01314426560|Borbaad|18 August 2025|Screen 1|10:00 AM - 12:34 PM|1|500|ADMIN
+Sonal Banik|01304828347|Borbaad|18 August 2025|Screen 2|12:34 PM - 03:08 PM|8|4000|ADMIN
+Nisho Rahman|01811798843|Antaratma|18 August 2025|Screen 2|10:00 AM - 12:30 PM|2|1000|ADMIN
+Adib Hridoy|01671096685|Antaratma|18 August 2025|Screen 3|12:30 PM - 03:00 PM|3|1500|ADMIN
+Sonal Ahsan|01333033160|Taandob|18 August 2025|Screen 1|10:00 AM - 12:25 PM|1|500|ADMIN
+Darshana Karim|01800364241|Taandob|18 August 2025|Screen 4|12:25 PM - 02:50 PM|5|3500|ADMIN
+Tama Karim|01380527363|Insaaf - Tale of Legends|18 August 2025|Screen 6|10:00 AM - 12:45 PM|7|7000|ADMIN
+Tasnia Paul|01361704271|Insaaf - Tale of Legends|18 August 2025|Screen 5|12:45 PM - 03:30 PM|3|2100|ADMIN
+Tanvir Noor|01589078545|Mission: Impossible - The Final Reckoning|18 August 2025|Screen 1|10:00 AM - 01:04 PM|4|2000|ADMIN
+Tasnia Hasan|01181951362|Mission: Impossible - The Final Reckoning|18 August 2025|Screen 1|01:04 PM - 04:08 PM|7|3500|ADMIN
+Mehazabien Shahin|01202150123|Jurassic World: Rebirth|19 August 2025|Screen 1|10:00 AM - 12:28 PM|8|4000|ADMIN
+Darshana Basu|01600217120|Jurassic World: Rebirth|19 August 2025|Screen 1|12:28 PM - 02:56 PM|6|3000|ADMIN
+Masum Basu|01336521045|Thunderbolts*|19 August 2025|Screen 1|10:00 AM - 12:22 PM|7|3500|ADMIN
+Aditi Ahmed|01008113432|Thunderbolts*|19 August 2025|Screen 1|12:22 PM - 02:44 PM|1|500|ADMIN
+Fahim Sengupta|01846855260|Ballerina|19 August 2025|Screen 1|10:00 AM - 12:19 PM|5|2500|ADMIN
+Aditi Karim|01058041629|Ballerina|19 August 2025|Screen 1|12:19 PM - 02:38 PM|6|3000|ADMIN
+Masum Khan|01983613356|The Fantastic Four: First Steps|19 August 2025|Screen 1|10:00 AM - 12:09 PM|8|4000|ADMIN
+Rafi Paul|01826040235|The Fantastic Four: First Steps|19 August 2025|Screen 1|12:09 PM - 02:18 PM|3|1500|ADMIN
+Tanvir Ahsan|01914115045|Sinners|19 August 2025|Screen 1|10:00 AM - 12:32 PM|3|1500|ADMIN
+Farin Rana|01194881815|Sinners|19 August 2025|Screen 1|12:32 PM - 03:04 PM|5|2500|ADMIN
+Fahim Rahman|01730119176|How to Train Your Dragon|19 August 2025|Screen 1|10:00 AM - 12:20 PM|6|3000|ADMIN
+Tama Banik|01260633062|How to Train Your Dragon|19 August 2025|Screen 1|12:20 PM - 02:40 PM|2|1000|ADMIN
+Shakib Paul|01462641019|Captain America: Brave New World|19 August 2025|Screen 1|10:00 AM - 12:13 PM|7|3500|ADMIN
+Farin Roy|01083449850|Captain America: Brave New World|19 August 2025|Screen 1|12:13 PM - 02:26 PM|3|1500|ADMIN
+Rafi Rahman|01363706122|Utshob|19 August 2025|Screen 1|10:00 AM - 12:08 PM|1|500|ADMIN
+Anik Ahmed|01179369685|Utshob|19 August 2025|Screen 1|12:08 PM - 02:16 PM|2|1000|ADMIN
+Nadia Basu|01170840302|Dard|19 August 2025|Screen 1|10:00 AM - 12:51 PM|2|1000|ADMIN
+Shirin Hasan|01679652661|Dard|19 August 2025|Screen 1|12:51 PM - 03:42 PM|2|1000|ADMIN
+Arif Basu|01229458644|Final Destination: Bloodlines|19 August 2025|Screen 1|10:00 AM - 12:05 PM|7|3500|ADMIN
+Tasnim Banik|01888109928|Final Destination: Bloodlines|19 August 2025|Screen 1|12:05 PM - 02:10 PM|2|1000|ADMIN
+Masum Ahmed|01870547548|Priyo Maloti|19 August 2025|Screen 1|10:00 AM - 12:14 PM|6|3000|ADMIN
+Jaya Banik|01050917562|Priyo Maloti|19 August 2025|Screen 1|12:14 PM - 02:28 PM|2|1000|ADMIN
+Tama Sengupta|01139628178|NeelChokro|19 August 2025|Screen 1|10:00 AM - 12:08 PM|4|2000|ADMIN
+Mahfuz Dasgupta|01755964572|NeelChokro|19 August 2025|Screen 1|12:08 PM - 02:16 PM|4|2000|ADMIN
+Tanvir Hasan|01825022262|F1: The Movie|19 August 2025|Screen 1|10:00 AM - 12:50 PM|4|2000|ADMIN
+Rahul Banik|01780724587|F1: The Movie|19 August 2025|Screen 1|12:50 PM - 03:40 PM|4|2000|ADMIN
+Sumaiya Rana|01765066157|Borbaad|19 August 2025|Screen 1|10:00 AM - 12:34 PM|8|4000|ADMIN
+Naziba Khan|01055538879|Borbaad|19 August 2025|Screen 1|12:34 PM - 03:08 PM|6|3000|ADMIN
+Tama Ahmed|01022737605|Antaratma|19 August 2025|Screen 2|10:00 AM - 12:30 PM|3|1500|ADMIN
+Farin Ferdous|01841530182|Antaratma|19 August 2025|Screen 2|12:30 PM - 03:00 PM|1|500|ADMIN
+Ariyan Shahin|01866713253|Taandob|19 August 2025|Screen 1|10:00 AM - 12:25 PM|6|3000|Ariyan
+Shirin Rana|01716158613|Taandob|19 August 2025|Screen 1|12:25 PM - 02:50 PM|5|2500|ADMIN
+Sumaiya Khan|01523116767|Insaaf - Tale of Legends|19 August 2025|Screen 2|10:00 AM - 12:45 PM|1|500|ADMIN
+Darshana Hasan|01148665551|Insaaf - Tale of Legends|19 August 2025|Screen 2|12:45 PM - 03:30 PM|6|3000|ADMIN
+Ariyan Banik|01107685034|Mission: Impossible - The Final Reckoning|19 August 2025|Screen 1|10:00 AM - 01:04 PM|6|3000|ADMIN
+Shirin Rahman|01259753809|Mission: Impossible - The Final Reckoning|19 August 2025|Screen 1|01:04 PM - 04:08 PM|8|4000|ADMIN
+Nadia Ahsan|01353783423|Jurassic World: Rebirth|20 August 2025|Screen 1|10:00 AM - 12:28 PM|8|4000|ADMIN
+Sonal Karim|01777464167|Jurassic World: Rebirth|20 August 2025|Screen 1|12:28 PM - 02:56 PM|2|1000|ADMIN
+Sadia Sengupta|01569998230|Thunderbolts*|20 August 2025|Screen 1|10:00 AM - 12:22 PM|3|1500|ADMIN
+Shirin Rana|01879493428|Thunderbolts*|20 August 2025|Screen 1|12:22 PM - 02:44 PM|4|2000|ADMIN
+Sadia Rana|01196815722|Ballerina|20 August 2025|Screen 1|10:00 AM - 12:19 PM|6|3000|ADMIN
+Shirin Roy|01224622749|Ballerina|20 August 2025|Screen 1|12:19 PM - 02:38 PM|4|2000|ADMIN
+Ariyan Basu|01439904397|The Fantastic Four: First Steps|20 August 2025|Screen 1|10:00 AM - 12:09 PM|1|500|ADMIN
+Shakib Banik|01592501305|The Fantastic Four: First Steps|20 August 2025|Screen 1|12:09 PM - 02:18 PM|4|2000|ADMIN
+Sumaiya Banik|01762188093|Sinners|20 August 2025|Screen 1|10:00 AM - 12:32 PM|2|1000|ADMIN
+Darshana Ahsan|01342729560|Sinners|20 August 2025|Screen 1|12:32 PM - 03:04 PM|8|4000|ADMIN
+Rafi Rana|01692923347|How to Train Your Dragon|20 August 2025|Screen 1|10:00 AM - 12:20 PM|3|1500|ADMIN
+Tama Roy|01328237114|How to Train Your Dragon|20 August 2025|Screen 1|12:20 PM - 02:40 PM|3|1500|ADMIN
+Shirin Ali|01763839614|Captain America: Brave New World|20 August 2025|Screen 1|10:00 AM - 12:13 PM|5|2500|ADMIN
+Anik Rahman|01432933016|Captain America: Brave New World|20 August 2025|Screen 1|12:13 PM - 02:26 PM|5|2500|ADMIN
+Sonal Chowdhury|01275816841|Utshob|20 August 2025|Screen 1|10:00 AM - 12:08 PM|8|4000|ADMIN
+Adib Ali|01245277417|Utshob|20 August 2025|Screen 1|12:08 PM - 02:16 PM|8|4000|ADMIN
+Aditi Ferdous|01135449811|Dard|20 August 2025|Screen 1|10:00 AM - 12:51 PM|1|500|ADMIN
+Adib Ferdous|01577622325|Dard|20 August 2025|Screen 1|12:51 PM - 03:42 PM|4|2000|ADMIN
+Shuvo Noor|01283656249|Final Destination: Bloodlines|20 August 2025|Screen 1|10:00 AM - 12:05 PM|6|3000|ADMIN
+Nadia Hridoy|01860373932|Final Destination: Bloodlines|20 August 2025|Screen 1|12:05 PM - 02:10 PM|6|3000|ADMIN
+Masum Sengupta|01507570304|Priyo Maloti|20 August 2025|Screen 1|10:00 AM - 12:14 PM|3|1500|ADMIN
+Fahim Mirza|01272238224|Priyo Maloti|20 August 2025|Screen 1|12:14 PM - 02:28 PM|7|3500|ADMIN
+Anik Shahin|01069645213|NeelChokro|20 August 2025|Screen 1|10:00 AM - 12:08 PM|8|4000|ADMIN
+Adib Rahman|01152647879|NeelChokro|20 August 2025|Screen 1|12:08 PM - 02:16 PM|1|500|ADMIN
+Arif Ahmed|01276318709|F1: The Movie|20 August 2025|Screen 1|10:00 AM - 12:50 PM|6|3000|ADMIN
+Tasnim Ahsan|01330118887|F1: The Movie|20 August 2025|Screen 1|12:50 PM - 03:40 PM|8|4000|ADMIN
+Rafi Basu|01563893308|Borbaad|20 August 2025|Screen 1|10:00 AM - 12:34 PM|4|2000|ADMIN
+Adib Rahman|01474286523|Borbaad|20 August 2025|Screen 1|12:34 PM - 03:08 PM|3|1500|ADMIN
+User|01700000000|Ballerina|18 August 2025|Screen 6 | 12:19 PM - 02:38 PM|2|2000|a
+User|01700000000|Ballerina|18 August 2025|Screen 5 | 10:00 AM - 12:19 PM|2|1400|a
+Naruto|01764489385|Jurassic World: Rebirth|18 August 2025|Screen 1 | 10:00 AM - 12:28 PM|2|1000|a
+Naruto|01764489385|Thunderbolts*|18 August 2025|Screen 2 | 10:00 AM - 12:22 PM|2|1000|a

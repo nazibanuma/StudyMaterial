@@ -1,0 +1,11 @@
+L|Dhaka
+S|Dhaka|Bloom & Co
+F|Dhaka|Bloom & Co|Rose|Red|120.0|50
+F|Dhaka|Bloom & Co|Tulip|Yellow|90.0|30
+L|Chittagong
+S|Chittagong|Petal House
+F|Chittagong|Petal House|Lily|White|150.0|20
+F|Chittagong|Petal House|Orchid|Purple|300.0|10
+L|Cumilla
+S|Cumilla|Cumilla Flowers
+F|Cumilla|Cumilla Flowers|Tulip|Red|20.0|100

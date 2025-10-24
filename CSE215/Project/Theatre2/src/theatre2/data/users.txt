@@ -1,0 +1,4 @@
+naziba|Naziba Ali|Female|01712345678|nazibanuma@gmail.com|Zigatola
+a|Naruto|Female|01764489385|dattebayo@gmail.com|hiddenleafvillage@gmail.com
+b|User|Gender|01700000000|example@gmail.com|Address
+p|User|Gender|01700000000|example@gmail.com|Address
